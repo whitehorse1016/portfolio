@@ -25840,43 +25840,43 @@
   (rh.flipY = !1), (rh.encoding = D);
   let sh = th.load("./assets/images/zatpay.jpg");
   (sh.flipY = !0), (sh.encoding = D);
-  let ah = th.load("./assets/images/portfolio.jpg");
+  let ah = th.load("./assets/images/portfolio.png");
   (ah.flipY = !0), (ah.encoding = D);
-  let oh = th.load("./assets/images/zatpayWeb.jpg");
+  let oh = th.load("./assets/images/virtuals.png");
   (oh.flipY = !0), (oh.encoding = D);
-  let lh = th.load("./assets/images/zatpayApp.jpg");
+  let lh = th.load("./assets/images/cornucopias.png");
   (lh.flipY = !0), (lh.encoding = D);
-  let ch = th.load("./assets/images/zatpayDashboard.jpg");
+  let ch = th.load("./assets/images/amuse.png");
   (ch.flipY = !0), (ch.encoding = D);
-  let hh = th.load("./assets/images/3D.jpg");
+  let hh = th.load("./assets/images/scottybeam.png");
   (hh.flipY = !0), (hh.encoding = D);
-  let uh = th.load("./assets/images/giovanniAgency.jpg");
+  let uh = th.load("./assets/images/wbt.png");
   (uh.flipY = !0), (uh.encoding = D);
-  let dh = th.load("./assets/images/palmAutoWeb.jpg");
+  let dh = th.load("./assets/images/mypethooligangame.png");
   (dh.flipY = !0), (dh.encoding = D);
-  let ph = th.load("./assets/images/palmAuto.jpg");
+  let ph = th.load("./assets/images/spark.png");
   (ph.flipY = !0), (ph.encoding = D);
-  let fh = th.load("./assets/images/enacIHM.jpg");
+  let fh = th.load("./assets/images/biswap.png");
   (fh.flipY = !0), (fh.encoding = D);
-  let mh = th.load("./assets/images/particulesHoverAnimation.jpg");
+  let mh = th.load("./assets/images/laserfiche.png");
   (mh.flipY = !0), (mh.encoding = D);
-  let gh = th.load("./assets/images/particulesImages.jpg");
+  let gh = th.load("./assets/images/todoneumaticas.png");
   (gh.flipY = !0), (gh.encoding = D);
-  let vh = th.load("./assets/images/bodyDetection.jpg");
+  let vh = th.load("./assets/images/innago.png");
   (vh.flipY = !0), (vh.encoding = D);
-  let xh = th.load("./assets/images/faceDetection.jpg");
+  let xh = th.load("./assets/images/forge.png");
   (xh.flipY = !0), (xh.encoding = D);
-  let yh = th.load("./assets/images/pyqt.jpg");
+  let yh = th.load("./assets/images/yokaiswap.png");
   (yh.flipY = !0), (yh.encoding = D);
-  let _h = th.load("./assets/images/shaders.jpg");
+  let _h = th.load("./assets/images/metafluence.png");
   (_h.flipY = !0), (_h.encoding = D);
-  let bh = th.load("./assets/images/sleekChoice.jpg");
+  let bh = th.load("./assets/images/defisport.png");
   (bh.flipY = !0), (bh.encoding = D);
-  let wh = th.load("./assets/images/smakoGroupe.jpg");
+  let wh = th.load("./assets/images/vikingfehu.png");
   (wh.flipY = !0), (wh.encoding = D);
-  let Mh = th.load("./assets/images/yocFood.jpg");
+  let Mh = th.load("./assets/images/suoc.png");
   (Mh.flipY = !0), (Mh.encoding = D);
-  let Sh = th.load("./assets/images/Island.jpg");
+  let Sh = th.load("./assets/images/multibit.png");
   (Sh.flipY = !0), (Sh.encoding = D);
   const Th = new kt({ map: rh }),
     Eh = new kt({ map: sh }),
@@ -25920,58 +25920,58 @@
               case "portfolio":
                 e.material = Ah;
                 break;
-              case "zatpayWebsite":
+              case "virtuals":
                 e.material = Rh;
                 break;
-              case "zatpayApp":
+              case "cornucopias":
                 e.material = Lh;
                 break;
-              case "zatpayDashboard":
+              case "amuse":
                 e.material = Ch;
                 break;
-              case "3Dtitre":
+              case "scotty":
                 e.material = Ph;
                 break;
-              case "giovanniAgency":
+              case "presaleonsolana":
                 e.material = Dh;
                 break;
-              case "palmautoWebsite":
+              case "mypethooligangame":
                 e.material = Ih;
                 break;
-              case "palmautoDashboard":
+              case "sparks":
                 e.material = Nh;
                 break;
-              case "enacIHM":
+              case "biswap":
                 e.material = Uh;
                 break;
-              case "particulesHoverAnimation":
+              case "laserfiche":
                 e.material = Bh;
                 break;
-              case "particulesImages":
+              case "todoneumaticas":
                 e.material = Fh;
                 break;
-              case "bodyDetection":
+              case "innago":
                 e.material = Hh;
                 break;
-              case "faceDetection":
+              case "forge":
                 e.material = kh;
                 break;
-              case "pyqt":
+              case "yokaiswap":
                 e.material = Gh;
                 break;
-              case "shaders":
+              case "metafluence":
                 e.material = Vh;
                 break;
-              case "sleekChoicePlugin":
+              case "defisport":
                 e.material = Oh;
                 break;
-              case "creativeLanding":
+              case "vikingfehu":
                 e.material = zh;
                 break;
-              case "YocApp":
+              case "SuocAPP":
                 e.material = Wh;
                 break;
-              case "dynamic":
+              case "multibit":
                 e.material = jh;
             }
           }),
