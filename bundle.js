@@ -25870,7 +25870,7 @@
   (yh.flipY = !0), (yh.encoding = D);
   let _h = th.load("./assets/images/metafluence.png");
   (_h.flipY = !0), (_h.encoding = D);
-  let bh = th.load("./assets/images/defisport.png");
+  let bh = th.load("./assets/images/ordigen.png");
   (bh.flipY = !0), (bh.encoding = D);
   let wh = th.load("./assets/images/vikingfehu.png");
   (wh.flipY = !0), (wh.encoding = D);
